@@ -3,34 +3,19 @@
 Hassium，男，24岁，是学生。WWS/MC/CHEMISTRY/MAOISM/NOVEL
 
 
-### Markdown
+### 个人简介
+哼哼哼，额啊啊啊啊啊啊啊啊啊啊
+为什么要看我信息啊啊啊啊啊啊
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 今日蝈蝻梦批录
+嘉然，我真的好喜欢你啊
+## 今日异闻录
+陈睿，密麻麻石蜡!
+## 沪国异闻录
+因为疫情取消生物联赛
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WWSGNK48/how_mskwg_flying_horse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 约翰霍普金斯人民公社
+坚持毛泽东思想！
