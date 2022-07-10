@@ -19,3 +19,4 @@ Hassium，男，24岁，是学生。WWS/MC/CHEMISTRY/MAOISM/NOVEL
 
 ## 约翰霍普金斯人民公社
 坚持毛泽东思想！
+我才是老大
